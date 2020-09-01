@@ -2,14 +2,14 @@
 
 ## Table of Contents
 
-  [# Description](#description)
-  [# Installation](#installation)
-  [# Usage](#usage)
-  [# Contributing](#contributing)
-  [# Test](#test)
-  [# Credits](#credits)
-  [# License](#license)
-  [# Questions](#questions)
+  [Description \n](#description)
+  [Installation \n](#installation)
+  [Usage \n](#usage)
+  [Contributing \n](#contributing)
+  [Test \n](#test)
+  [Credits \n](#credits)
+  [License \n](#license)
+  [Questions \n](#questions)
 
   ## Description:
   ![]("./exampleREADME/demo.mp4")
