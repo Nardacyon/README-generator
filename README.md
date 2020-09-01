@@ -2,17 +2,17 @@
 
 ## Table of Contents
 
-  -[Description](#description)
-  -[Installation](#installation)
-  -[Usage](#usage)
-  -[Contributing](#contributing)
-  -[Test](#test)
-  -[Credits](#credits)
-  -[License](#license)
-  -[Questions](#questions)
+  [# Description](#description)
+  [# Installation](#installation)
+  [# Usage](#usage)
+  [# Contributing](#contributing)
+  [# Test](#test)
+  [# Credits](#credits)
+  [# License](#license)
+  [# Questions](#questions)
 
   ## Description:
-  ![]("./example-README/demo.mp4")
+  ![]("./exampleREADME/demo.mp4")
 
     The app prompts the User with question relating to their project. A readme.md file will be created based on the User's responses to the prompts.
   ## Installation: 
@@ -25,9 +25,9 @@
     undefined
   ## License:  
 
-  - [License](https://opensource.org/licenses/MIT)
+  [License](https://opensource.org/licenses/MIT)
 
   ## Questions: 
     For questions about the project go to my GitHub page at:
 
-  -[GitHub Profile](https://github.com/Nardacyon)
+  [GitHub Profile](https://github.com/Nardacyon)
