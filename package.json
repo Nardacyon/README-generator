@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1" },
+    "inquirer": "^6.3.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Nardacyon/README-generator.git"
@@ -19,4 +20,3 @@
   },
   "homepage": "https://github.com/Nardacyon/README-generator#readme"
 }
-
