@@ -12,7 +12,7 @@
   -[Questions](#questions)
 
   ## Description:
-  ![License]()
+  ![License]("./example-README/demo.mp4")
 
     The app prompts the User with question relating to their project. A readme.md file will be created based on the User's responses to the prompts.
   ## Installation: 

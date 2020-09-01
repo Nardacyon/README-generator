@@ -1,4 +1,4 @@
-  # README generator
+  # yourTitle
 
   #Table of Contents
 
@@ -14,15 +14,15 @@
   ## Description:
   ![License]()
 
-    The app prompts the User with question relating to their project. A readme.md file will be created based on the User's responses to the prompts.
+    Description here
   ## Installation: 
-    To install, clone or fork the repository. Use is allowed as long as it is within the guidelines of the license.
+    Install ...
   ## Usage:
-    For usage, make sure to have npm and node installed properly. Using powershell, terminal, etc. use the cmd line 'node index.js' to be prompted by the app. Then the app will create your README.md 
+    TO USE...
   ## Contributing: 
-    Nobody
+    
   ## Test: 
-    No tests have been run
+    
   ## License:  
 
   - [License](https://opensource.org/licenses/)
@@ -30,4 +30,4 @@
   ## Questions: 
     For questions about the project go to my GitHub page at:
 
-  -[GitHub Profile](https://github.com/Nardacyon)
+  -[GitHub Profile](https://github.com/YourGithubUsername)
