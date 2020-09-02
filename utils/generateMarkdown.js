@@ -2,16 +2,16 @@
 async function generateMarkdown(response) {
   return `  # ${response.title}
 
-  #Table of Contents
+  ## Table of Contents
 
-  -[Description](#description)
-  -[Installation](#installation)
-  -[Usage](#usage)
-  -[Contributing](#contributing)
-  -[Test](#test)
-  -[Credits](#credits)
-  -[License](#license)
-  -[Questions](#questions)
+  [Description](#description) \n
+  [Installation](#installation) \n
+  [Usage](#usage) \n
+  [Contributing](#contributing) \n
+  [Test](#test) \n
+  [Credits](#credits) \n
+  [License](#license) \n
+  [Questions](#questions) \n
 
   ## Description:
   ![License]()
@@ -27,12 +27,12 @@ async function generateMarkdown(response) {
     ${response.test}
   ## License:  
 
-  - [License](https://opensource.org/licenses/${response.license})
+   [License](https://opensource.org/licenses/${response.license})
 
   ## Questions: 
     For questions about the project go to my GitHub page at:
 
-  -[GitHub Profile](https://github.com/${response.username})
+  [GitHub Profile](https://github.com/${response.username})
 `;
 }
 
