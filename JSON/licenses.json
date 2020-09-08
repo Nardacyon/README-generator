@@ -1,0 +1,46 @@
+{
+    "Apache-2.0": {
+        "publicFile": "https://opensource.org/licenses/Apache-2.0",
+        "badge": "https://img.shields.io/badge/License-Apache%202.0-blue.svg"
+    },
+    "BSD 3-Clause License": {
+        "publicFile": "https://opensource.org/licenses/BSD-3-Clause",
+        "badge": "https://img.shields.io/badge/License-BSD%203--Clause-blue.svg"
+    },
+    "BSD 2-Clause License": {
+        "publicFile": "https://opensource.org/licenses/BSD-2-Clause",
+        "badge": "https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    },
+    "Eclipse Public License 1.0": {
+        "publicFile": "https://opensource.org/licenses/EPL-1.0",
+        "badge": "https://img.shields.io/badge/License-EPL%201.0-red.svg"
+    },
+    "GNU GPL v3": {
+        "publicFile": "http://www.gnu.org/licenses/gpl-3.0",
+        "badge": "https://img.shields.io/badge/License-GPL%20v3-blue.svg"
+    },
+    "GNU GPL v2": {
+        "publicFile": "https://img.shields.io/badge/License-GPL%20v2-blue.svg",
+        "badge": "https://img.shields.io/badge/License-GPL%20v2-blue.svg"
+    },
+    "GNU AGPL v3": {
+        "publicFile": "http://www.gnu.org/licenses/agpl-3.0",
+        "badge": "https://img.shields.io/badge/License-AGPL%20v3-blue.svg"
+    },
+    "GNU LGPL v3": {
+        "publicFile": "http://www.gnu.org/licenses/lgpl-3.0",
+        "badge": "https://img.shields.io/badge/License-LGPL%20v3-blue.svg"
+    },
+    "GNU FDL v1.3": {
+        "publicFile": "http://www.gnu.org/licenses/fdl-1.3",
+        "badge": "https://img.shields.io/badge/License-FDL%20v1.3-blue.svg"
+    },
+    "MIT": {
+        "publicFile": "https://opensource.org/licenses/MIT",
+        "badge": "https://img.shields.io/badge/License-MIT-yellow.svg"
+    },
+    "Mozilla Public License 2.0": {
+        "publicFile": "https://opensource.org/licenses/MPL-2.0",
+        "badge": "https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg"
+    }
+}
