@@ -22,7 +22,7 @@
 
 
   ## Description:
-  ![](https://giphy.com/gifs/j3EVpEl1ZHRxbovZVb)
+  ![]("https://giphy.com/gifs/j3EVpEl1ZHRxbovZVb")
 
     The app prompts the user with a series of questions relating to their project. All answers given to the inquirer prompt will be used to build a README.md file for the user.
   ## Installation: 
