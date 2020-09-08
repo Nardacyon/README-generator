@@ -1,33 +1,43 @@
-# README-generator
+  # README-generator
 
-## Table of Contents
+  [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  * [Description](#description)
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [Contributing](#contributing)
-  * [Test](#test)
-  * [Credits](#credits)
-  * [License](#license)
-  * [Questions](#questions)
+  ## Table of Contents
+
+    * [Description](#description) 
+
+    * [Installation](#installation) 
+
+    * [Usage](#usage) 
+
+    * [Contributing](#contributing) 
+
+    * [Test](#test) 
+
+    * [Credits](#credits) 
+
+    * [License](#license) 
+
+    * [Questions](#questions) 
+
 
   ## Description:
-  ![]("./exampleREADME/demo.mp4")
+  ![](https://giphy.com/gifs/j3EVpEl1ZHRxbovZVb)
 
-    The app prompts the User with question relating to their project. A readme.md file will be created based on the User's responses to the prompts.
+    The app prompts the user with a series of questions relating to their project. All answers given to the inquirer prompt will be used to build a README.md file for the user.
   ## Installation: 
-    To install, clone or fork the repository. Use is allowed as long as it is within the guidelines of the license.
+    To install, clone or fork the repository. When you have completed the cloning/forking, make sure to install the dependencies required to run the program with 'npm i' commands.
   ## Usage:
-    For usage, make sure to have npm and node installed properly. Using powershell, terminal, etc. use the cmd line 'node index.js' to be prompted by the app. Then the app will create your README.md file!
+    To use, make sure you have the npm dependencies installed. Open your preferred terminal with the correct path to the directory of this project and run the cmd line 'node index.js'. Answer all questions that is prompted by the app and the README.md file will be created.
   ## Contributing: 
     No contributors
   ## Test: 
-    undefined
+    N/A
   ## License:  
 
-  [License](https://opensource.org/licenses/MIT)
+  This project is protected under the [MIT](https://opensource.org/licenses/MIT) license. Use is encouraged as outlined in this license.
 
   ## Questions: 
-    For questions about the project go to my GitHub page at:
+  For questions about the project go to my GitHub page at:
 
-  [GitHub Profile](https://github.com/Nardacyon)
+    * [GitHub Profile](https://github.com/Nardacyon)
