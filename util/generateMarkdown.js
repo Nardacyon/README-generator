@@ -12,27 +12,27 @@ async function generateMarkdown(data) {
 
   ## Table of Contents
 
-    * [Description](#description) \n
-    * [Installation](#installation) \n
-    * [Usage](#usage) \n
-    * [Contributing](#contributing) \n
-    * [Test](#test) \n
-    * [Credits](#credits) \n
-    * [License](#license) \n
-    * [Questions](#questions) \n
+   * [Description](#description) \n
+   * [Installation](#installation) \n
+   * [Usage](#usage) \n
+   * [Contributing](#contributing) \n
+   * [Test](#test) \n
+   * [Credits](#credits) \n
+   * [License](#license) \n
+   * [Questions](#questions) \n
 
   ## Description:
   ![](${data.screenshot})
 
-    ${data.description}
+  ${data.description}
   ## Installation: 
-    ${data.installation}
+  ${data.installation}
   ## Usage:
-    ${data.usage}
+  ${data.usage}
   ## Contributing: 
-    ${data.contributing}
+  ${data.contributing}
   ## Test: 
-    ${data.test}
+  ${data.test}
   ## License:  
 
   This project is protected under the [${data.license}](${licenseJSON[data.license].publicFile}) license. Use is encouraged as outlined in this license.
@@ -40,7 +40,7 @@ async function generateMarkdown(data) {
   ## Questions: 
   For questions about the project go to my GitHub page at:
 
-    * [GitHub Profile](https://github.com/${data.username})
+  * [GitHub Profile](https://github.com/${data.username})
 `;
 }
 

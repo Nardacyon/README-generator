@@ -75,7 +75,7 @@ async function init() {
         {
             // type: "input",
             name: "username",
-            message: "How can people contact you for questions?\n"
+            message: "What is your Github Username\n"
         }
     ]);
     try {
